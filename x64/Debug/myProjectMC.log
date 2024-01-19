@@ -1,0 +1,5 @@
+﻿  myProjectMC.cpp
+C:\Users\user\source\repos\myProjectMC\myProjectMC\baseClasies.h(344,16): warning C4566: character represented by universal-character-name '\u0259' cannot be represented in the current code page (1252)
+C:\Users\user\source\repos\myProjectMC\myProjectMC\menu.h(50,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\myProjectMC\myProjectMC\userPanel.h(183,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  myProjectMC.vcxproj -> C:\Users\user\source\repos\myProjectMC\x64\Debug\myProjectMC.exe
